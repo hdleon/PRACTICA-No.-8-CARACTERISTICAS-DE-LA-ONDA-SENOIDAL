@@ -24,6 +24,9 @@ Henrry Leon
 
 **8.2. MARCO TEORICO:**
 
+![image](https://user-images.githubusercontent.com/116777118/219368027-cf3313ef-71a0-4734-9807-28b12a8ccf13.png)
+
+
 • *Osciloscopio:* Es un instrumento de medición para la electrónica. Representa una gráfica de amplitud en el eje vertical y tiempo en el eje horizontal.
 
 ![image](https://user-images.githubusercontent.com/116777118/218007618-0a4cfe45-ba96-400b-86c8-6493510b4ed3.png)
