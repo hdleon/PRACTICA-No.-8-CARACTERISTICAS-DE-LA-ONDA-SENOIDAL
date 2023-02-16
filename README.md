@@ -93,15 +93,15 @@ f:  2500 (Hz)
 
 ![image](https://user-images.githubusercontent.com/116777118/219367044-b75a7af0-1115-4ab5-8b7e-60c32d137e45.png)
 
+**8.6. VIDEO**
+
+**8.7. CONCLUSIONES**
+
 *Compare el voltaje medido con el multímetro y el obtenido en el osciloscopio. ¿Coinciden? ¿Por qué?.*
 
 No coinciden, porque un multímetro es un instrumento de medición que utiliza un circuito rectificador y un promedio de voltaje para mostrar la amplitud del voltaje AC. El multímetro es capaz de medir voltajes RMS (valor eficaz), que es el valor cuadrático medio de la señal AC. Sin embargo, un multímetro no puede mostrar la forma de onda de la señal AC.
 
 Por otro lado, un osciloscopio es un instrumento de medición que muestra la forma de onda de una señal AC en tiempo real. El osciloscopio mide el voltaje AC mediante el muestreo de la señal a intervalos regulares y la representación gráfica de la forma de onda resultante. El osciloscopio puede mostrar la amplitud, frecuencia y fase de la señal AC, así como la forma de onda.
-
-**8.6. VIDEO**
-
-**8.7. CONCLUSIONES**
 
 
 
