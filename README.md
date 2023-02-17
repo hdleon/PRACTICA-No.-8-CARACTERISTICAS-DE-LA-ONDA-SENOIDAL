@@ -95,6 +95,8 @@ f:  2500 (Hz)
 
 **8.6. VIDEO**
 
+https://youtu.be/m-spaDtkS4c
+
 **8.7. CONCLUSIONES**
 
 *Compare el voltaje medido con el multímetro y el obtenido en el osciloscopio. ¿Coinciden? ¿Por qué?.*
